@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TopSecret_GWS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="guess_password">Guess the Password</string>
+    <string name="password_was">The password was</string><string name="nope_toast">Nope! Try Again!</string>
+    
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="show_password">Display Password</string>
+
+</resources>
