@@ -18,6 +18,7 @@
         android:id="@+id/password_guess"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="35sp"
         android:padding="24dp"  />
     
     <TextView
